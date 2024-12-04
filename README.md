@@ -2,6 +2,7 @@
 
 Este proyecto implementa la automatización de pruebas para una API REST. Las pruebas se realizan utilizando el framework **Serenity** junto con **IntelliJ IDEA** como entorno de desarrollo.
 
+
 ## Métodos Implementados
 
 - **DELETE /airlines/{id}**: Elimina una aerolínea existente a partir de su ID.
@@ -14,6 +15,8 @@ Este proyecto implementa la automatización de pruebas para una API REST. Las pr
 - **Java**: El lenguaje principal para la automatización de pruebas.
 - **Serenity**: Framework para la automatización de pruebas que facilita la creación de informes detallados y el manejo de escenarios de prueba.
 - **IntelliJ IDEA**: Entorno de desarrollo integrado (IDE) utilizado para escribir y ejecutar las pruebas.
+  
+-**https://www.instantwebtools.net/fake-api/fake-rest-api/**
 
 ## Descripción del Proyecto
 
@@ -38,5 +41,6 @@ Este repositorio contiene los scripts necesarios para automatizar las pruebas de
 
 4. **Ver Resultados:**
    - Serenity generará un informe detallado de los resultados de las pruebas, el cual estará disponible en la carpeta `target/serenity`.
+
 
 
