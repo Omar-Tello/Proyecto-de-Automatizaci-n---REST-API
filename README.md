@@ -16,7 +16,7 @@ Este proyecto implementa la automatización de pruebas para una API REST. Las pr
 - **Serenity**: Framework para la automatización de pruebas que facilita la creación de informes detallados y el manejo de escenarios de prueba.
 - **IntelliJ IDEA**: Entorno de desarrollo integrado (IDE) utilizado para escribir y ejecutar las pruebas.
   
--**https://www.instantwebtools.net/fake-api/fake-rest-api/**
+- **API utilizada**: [InstantWebTools Fake API](https://www.instantwebtools.net/fake-api/fake-rest-api/)
 
 ## Descripción del Proyecto
 
@@ -26,11 +26,13 @@ Este repositorio contiene los scripts necesarios para automatizar las pruebas de
 
 1. **Clonar el Repositorio:**
    - Clona este repositorio en tu máquina local:
-    
+     ```bash
+     git clone https://github.com/tu-usuario/Proyecto-de-Automatización---REST-API.git
+     ```
 
 2. **Configuración del Proyecto:**
    - Abre el proyecto en **IntelliJ IDEA**.
-   - Asegúrate de tener las dependencias de Serenity configurada en tu proyecto. Puedes agregar las dependencias necesarias en el archivo `pom.xml` si usas Maven.
+   - Asegúrate de tener las dependencias de Serenity configuradas en tu proyecto. Puedes agregar las dependencias necesarias en el archivo `pom.xml` si usas Maven.
 
 3. **Ejecutar las Pruebas:**
    - Ejecuta las pruebas directamente desde IntelliJ IDEA.
@@ -41,12 +43,20 @@ Este repositorio contiene los scripts necesarios para automatizar las pruebas de
 
 4. **Ver Resultados:**
    - Serenity generará un informe detallado de los resultados de las pruebas, el cual estará disponible en la carpeta `target/serenity`.
-  
-   - ## Imágenes
-[![Sin-t-tulo.png](https://i.postimg.cc/qMc0Prqj/Sin-t-tulo.png)](https://postimg.cc/xcdWmWKz)
-  
-[![Sin-t-tulo-copia.png](https://i.postimg.cc/449X1VgC/Sin-t-tulo-copia.png)](https://postimg.cc/PNdGXLJK)
 
+---
+
+## Imágenes
+
+<div align="center">
+  <a href="https://postimg.cc/xcdWmWKz">
+    <img src="https://i.postimg.cc/qMc0Prqj/Sin-t-tulo.png" alt="Sin-t-tulo" />
+  </a>
+  <br>
+  <a href="https://postimg.cc/PNdGXLJK">
+    <img src="https://i.postimg.cc/449X1VgC/Sin-t-tulo-copia.png" alt="Sin-t-tulo-copia" />
+  </a>
+</div>
 
 
 
