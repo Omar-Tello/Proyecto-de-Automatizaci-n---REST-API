@@ -41,6 +41,12 @@ Este repositorio contiene los scripts necesarios para automatizar las pruebas de
 
 4. **Ver Resultados:**
    - Serenity generará un informe detallado de los resultados de las pruebas, el cual estará disponible en la carpeta `target/serenity`.
+  
+   - ## Imágenes
+[![Sin-t-tulo.png](https://i.postimg.cc/qMc0Prqj/Sin-t-tulo.png)](https://postimg.cc/xcdWmWKz)
+  
+[![Sin-t-tulo-copia.png](https://i.postimg.cc/449X1VgC/Sin-t-tulo-copia.png)](https://postimg.cc/PNdGXLJK)
+
 
 
 
