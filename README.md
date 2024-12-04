@@ -20,7 +20,7 @@ Este proyecto implementa la automatización de pruebas para una API REST. Las pr
 
 ## Descripción del Proyecto
 
-Este repositorio contiene los scripts necesarios para automatizar las pruebas de los métodos de una API REST que simula la gestión de aerolíneas. A través de estas pruebas, se verifica la correcta implementación de los endpoints para crear, obtener, actualizar y eliminar aerolíneas.
+Este repositorio automatiza las pruebas de los métodos de una API REST que simula la gestión de aerolíneas. A través de estas pruebas, se verifica la correcta implementación de los endpoints para crear, obtener, actualizar y eliminar aerolíneas.
 
 ### ¿Cómo Ejecutar las Pruebas?
 
